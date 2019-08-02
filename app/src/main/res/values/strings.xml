@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multi Language Support</string>
+    <string name="greeting_message">Welcome All</string>
+    <string name="hint_message">Enter your name</string>
+    <string name="button_label">Submit</string>
+    <string name="selected_language">English</string>
+</resources>

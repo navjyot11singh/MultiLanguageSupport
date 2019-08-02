@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi Language Support</string>
+    <string name="greeting_message">सभी का स्वागत</string>
+    <string name="hint_message">अपना नाम दर्ज करें</string>
+    <string name="button_label">जमा करें</string>
+    <string name="selected_language">Hindi</string>
+</resources>
